@@ -72,4 +72,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for choosing IRIS News Reader! 🚀 If you find it useful, don't forget to give it a ⭐️!
 
-[GitHub Repository](https://github.com/joyall2812/iris-newsreader)
+[IRIS-news-reader](https://github.com/joyall2812/iris-newsreader)
