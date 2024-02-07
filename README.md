@@ -2,7 +2,7 @@
 
 Welcome to IRIS, your go-to destination for staying updated with the latest news from around the world.
 
-![IRIS Logo](https://example.com/iris-logo.png)
+![IRIS Logo](images/IRIS-logos_white_new_cropped.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
