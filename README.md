@@ -73,3 +73,9 @@ This project is licensed under the [MIT License](LICENSE).
 Thank you for choosing IRIS News Reader! 🚀 If you find it useful, don't forget to give it a ⭐️!
 
 [IRIS-news-reader](https://github.com/joyall2812/iris-newsreader)
+
+## 📫 Let's Connect!
+
+- 📧 Email: JOYALVS380@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/joyal-vs-774135246/)
+- 📸 [_minato_ackerman](https://www.instagram.com/_minato_ackerman/)
