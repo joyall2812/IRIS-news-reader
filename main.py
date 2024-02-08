@@ -3,7 +3,6 @@ import pandas as pd
 from newsapi import NewsApiClient
 import streamlit_antd_components as sac
 from modules import irismod as imo
-import streamlit_scrollable_textbox as stx
 from datetime import datetime,timedelta
 
 #connecting with api
