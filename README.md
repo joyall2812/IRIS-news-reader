@@ -38,7 +38,7 @@ IRIS is a dynamic news reader web app developed with Streamlit and powered by th
 
 ## Demo
 
-[IRIS News Reader Demo](https://your-iris-demo-url.com/)
+[IRIS News Reader Demo](https://iris-news-reader-joyal.streamlit.app/)
 
 ## Dependencies
 
